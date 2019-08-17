@@ -1,0 +1,11 @@
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\bin\Debug\netcoreapp2.2\InheritanceFirstSteps.deps.json
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\bin\Debug\netcoreapp2.2\InheritanceFirstSteps.runtimeconfig.json
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\bin\Debug\netcoreapp2.2\InheritanceFirstSteps.runtimeconfig.dev.json
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\bin\Debug\netcoreapp2.2\InheritanceFirstSteps.dll
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\bin\Debug\netcoreapp2.2\InheritanceFirstSteps.pdb
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\obj\Debug\netcoreapp2.2\InheritanceFirstSteps.csprojAssemblyReference.cache
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\obj\Debug\netcoreapp2.2\InheritanceFirstSteps.csproj.CoreCompileInputs.cache
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\obj\Debug\netcoreapp2.2\InheritanceFirstSteps.AssemblyInfoInputs.cache
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\obj\Debug\netcoreapp2.2\InheritanceFirstSteps.AssemblyInfo.cs
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\obj\Debug\netcoreapp2.2\InheritanceFirstSteps.dll
+C:\Users\Deepa\Desktop\MSSA\Cohort 7 2019\Homeworks\ISTA 322 ASP.NET\Week 7\InheritanceFirstSteps\InheritanceFirstSteps\obj\Debug\netcoreapp2.2\InheritanceFirstSteps.pdb
